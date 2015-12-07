@@ -6,6 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("git!");
 		System.out.println("github");
+		System.out.println("eclipse!");
 
 	}
 
